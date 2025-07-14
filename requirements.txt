@@ -1,0 +1,9 @@
+flask
+flask-socketio
+eventlet
+opencv-python
+numpy
+mss
+pillow
+python-socketio
+opencv-contrib-python
