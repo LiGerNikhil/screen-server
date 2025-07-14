@@ -7,3 +7,4 @@ mss
 pillow
 python-socketio
 opencv-contrib-python
+gunicorn
